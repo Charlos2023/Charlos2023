@@ -1,4 +1,4 @@
-<img align="center" />
+<img align="center" src="sky.gif" />
 
 <p align="center">
   Étudiant en informatique au cégep <a href="https://www.cegepmontpetit.ca/">Édouard-Montpetit</a>.
