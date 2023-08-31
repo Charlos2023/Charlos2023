@@ -10,6 +10,10 @@
   J'adore le C++, le reverse engineering (rétro-ingénierie) et le web dev. 
 </p>
 
+### Mes projets 
+- <a href="https://github.com/Charlos2023/RscLink">RscLink</a>: Permet de "link" des fichiers dans un header C++ via une interface.
+- <a href="https://github.com/Charlos2023/NET">NET</a>: Une librairie TCP client et serveur composée d'un protocole personalisé (À fins éducatives).
+
 ### Quelques unes de mes connaissances
 
 ![Static Badge](https://img.shields.io/badge/-_?logo=csharp&color=purple)
