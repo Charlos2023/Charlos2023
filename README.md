@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sky.gif" />
+  <img src="sky.gif" width="500px" />
 </p>
 
 <p align="center">
