@@ -1,7 +1,7 @@
 ## A propos de moi
 
 Étudiant en informatique au cégep <a href="https://www.cegepmontpetit.ca/">Édouard-Montpetit</a>.
-<br />
+<br /> <br />
 J'adore le C++, le reverse engineering (rétro-ingénierie) et le web dev.
 
 ## Mes projets 
