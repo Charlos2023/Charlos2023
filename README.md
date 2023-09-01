@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="sky.gif" width="700px" />
-</p>
+## A propos de moi
 
-<p align="center">
-  Étudiant en informatique au cégep <a href="https://www.cegepmontpetit.ca/">Édouard-Montpetit</a>.
-</p>
-
-<p align="center">
-  J'adore le C++, le reverse engineering (rétro-ingénierie) et le web dev. 
-</p>
+Étudiant en informatique au cégep <a href="https://www.cegepmontpetit.ca/">Édouard-Montpetit</a>.
+<br />
+J'adore le C++, le reverse engineering (rétro-ingénierie) et le web dev.
 
 ## Mes projets 
 - <a href="https://github.com/Charlos2023/RscLink">RscLink</a>: Permet de "link" des fichiers dans un header C++ via une interface.
