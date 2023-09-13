@@ -1,4 +1,4 @@
-## A propos de moi
+## À propos de moi
 
 Étudiant en informatique au cégep <a href="https://www.cegepmontpetit.ca/">Édouard-Montpetit</a>.
 <br /> <br />
